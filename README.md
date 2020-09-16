@@ -1,5 +1,6 @@
 # D_R_Z_W_I
-Esp32 project to control door lock without destroying doors and door frame.##Items
+Esp32 project to control door lock without destroying doors and door frame.
+## Items
 - esp32 3V3
 - servo Tower Pro MG-995R (180° range)
 - male-to-female cables
@@ -9,7 +10,8 @@ Esp32 project to control door lock without destroying doors and door frame.##Ite
 - powerbank
 - tape
 - utility knife
-- time##Code
+- time
+## Code
 ```
 #include <Servo.h>
 #include <WiFi.h>
@@ -146,5 +148,5 @@ void loop() {
 Also there must be following links in Preferences>additional Url adresses:
 - http://arduino.esp8266.com/stable/package_esp8266com_index.json, https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 And choosed specyfic esp board.
-##Troubleshooting
+## Troubleshooting
 Sometimes there is need to long click boot button to upload project to esp.
