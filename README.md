@@ -147,6 +147,5 @@ void loop() {
 ```
 Also there must be following links in Preferences>additional Url adresses:
 - http://arduino.esp8266.com/stable/package_esp8266com_index.json, https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-And choosed specyfic esp board.
 ## Troubleshooting
 Sometimes there is need to long click boot button to upload project to esp.
