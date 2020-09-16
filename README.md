@@ -1,5 +1,6 @@
 # D_R_Z_W_I
 Esp32 project to control door lock without destroying doors and door frame.
+![alt text](https://github.com/misss13/D_R_Z_W_I/blob/master/20200916_190341-01.jpeg)
 ## Items
 - esp32 3V3
 - servo Tower Pro MG-995R (180° range)
